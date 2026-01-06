@@ -16,9 +16,9 @@ Thumbs.db
 # Logs e dados (não subir CSVs do SIOPE!)
 logs/*.log
 logs/*.csv
-data/original/*.csv
-data/novos_valores/*.csv
-data/output/*.csv
+#data/original/*.csv
+#data/novos_valores/*.csv
+#data/output/*.csv
 
 # Se você quiser manter a pasta no repo:
 !.gitkeep
