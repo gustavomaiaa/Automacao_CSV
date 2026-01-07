@@ -1,24 +1,7 @@
-# Python
-__pycache__/
-*.py[cod]
-.venv/
 venv/
-env/
-.pytest_cache/
-.mypy_cache/
-
-# OS / editor
-.DS_Store
-Thumbs.db
-.vscode/
-.idea/
-
-# Logs e dados (não subir CSVs do SIOPE!)
-logs/*.log
-logs/*.csv
-#data/original/*.csv
-#data/novos_valores/*.csv
-#data/output/*.csv
-
-# Se você quiser manter a pasta no repo:
-!.gitkeep
+__pycache__/
+*.pyc
+data/
+logs/
+*.csv
+*.pdf
